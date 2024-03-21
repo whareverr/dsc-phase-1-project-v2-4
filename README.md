@@ -48,6 +48,6 @@ Microsoft can also experiment with combining genres to create unique and innovat
 
 **Language Preference Insights** - Microsoft should prioritize languages with higher average ratings to tailor their content strategy and enhance audience engagement. By focusing on languages with consistently higher ratings, Microsoft can optimize content selection, forge strategic partnerships with filmmakers from relevant regions, invest in subtitling their movies, and expand marketing efforts in target regions. This approach will ensure that Microsoft's movie studio venture resonates with diverse audiences worldwide, maximizing the potential for global success.
 
-
+![image]([https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-4/assets/67095878/53f50a6b-0188-4e3e-9014-3c2d28a5b94f](https://github.com/whareverr/dsc-phase-1-project-v2-4/blob/master/language.png)https://github.com/whareverr/dsc-phase-1-project-v2-4/blob/master/language.png)
 
 
