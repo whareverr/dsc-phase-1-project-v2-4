@@ -50,11 +50,11 @@ Microsoft can also experiment with combining genres to create unique and innovat
 
 **Optimizing Movie Time Release** - Understanding the monthly distribution of movie releases guides Microsoft's strategic timing for movie launches. By identifying peak release months and avoiding crowded periods, Microsoft can optimize visibility and maximize audience engagement. This data-driven approach ensures their films hit the screens when demand is high, increasing the chances of box office success amidst competition.
 
-![image](https://github.com/whareverr/dsc-phase-1-project-v2-4/blob/master/month releases.png)
+![image](https://github.com/whareverr/dsc-phase-1-project-v2-4/blob/master/month.png)
 
 **Global Revenue Strategy** - The scatter plot shows the correlation between domestic and foreign gross revenue offering Microsoft invaluable insights into the performance of their movies on a global scale. By analyzing this relationship, Microsoft should consider refining their international distribution strategies and tailoring their marketing efforts to target specific regions more effectively. Understanding how each movie performs in different markets will empower Microsoft to allocate resources wisely and maximize revenue potential worldwide.
 
-![image](https://github.com/whareverr/dsc-phase-1-project-v2-4/blob/master/domestic vs foreign.png)
+![image](https://github.com/whareverr/dsc-phase-1-project-v2-4/blob/master/domestic.png)
 
 
 **Language Preference Insights** - Microsoft should prioritize languages with higher average ratings to tailor their content strategy and enhance audience engagement. By focusing on languages with consistently higher ratings, Microsoft can optimize content selection, forge strategic partnerships with filmmakers from relevant regions, invest in subtitling their movies, and expand marketing efforts in target regions. This approach will ensure that Microsoft's movie studio venture resonates with diverse audiences worldwide, maximizing the potential for global success.
